@@ -1,5 +1,9 @@
 # Image Release Details
 
+## 24.04.02-Jazzy
+- Force Performance mode on NavQPlus
+- `jazzy-241107112629-f5fbb06c28`
+
 ## 24.04.01-Jazzy
 - Initial release for 24.04 jazzy on NavQPlus
 - `jazzy-240925145528-b2c2ee4acb`
