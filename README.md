@@ -1,4 +1,10 @@
 # Image Release Details
+## 24.04.03-Jazzy
+- Enable UWB driver
+- Enable NPU and GPU
+- Use corrected install path for tflite_runtime
+- `jazzy-241121170651-a4ab9c3d27`
+
 
 ## 24.04.02-Jazzy
 - Force Performance mode on NavQPlus
