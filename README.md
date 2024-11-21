@@ -3,16 +3,15 @@
 - Enable UWB driver
 - Enable NPU and GPU
 - Use corrected install path for tflite_runtime
-- `jazzy-241121170651-a4ab9c3d27`
-
+- [`jazzy-241121170651-a4ab9c3d27`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/a4ab9c3d27acf423e2a1f23c67d597d6bf4635d8)
 
 ## 24.04.02-Jazzy
 - Force Performance mode on NavQPlus
-- `jazzy-241107112629-f5fbb06c28`
+- [`jazzy-241107112629-f5fbb06c28`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/f5fbb06c28ba78cccde63f2e3790750d4579c439)
 
 ## 24.04.01-Jazzy
 - Initial release for 24.04 jazzy on NavQPlus
-- `jazzy-240925145528-b2c2ee4acb`
+- [`jazzy-240925145528-b2c2ee4acb`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/b2c2ee4acb1251dd12d9da13ac6cd147d73ad55b)
 
 # General for NavQPlus 24.04 ROS 2 Jazzy images on 6.6.x kernels
 See releases
