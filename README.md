@@ -1,5 +1,5 @@
 # Image Release Details
-## 24.04.03-Jazzy
+## [24.04.03-Jazzy](https://github.com/CogniPilot/navqplus-images/releases/tag/24.04.03-Jazzy)
 - Enable UWB driver
 - Enable NPU and GPU
 - Use corrected install path for tflite_runtime
@@ -7,11 +7,11 @@
 - Enable most usb serial drivers
 - [`jazzy-241122151518-c7b0f18a89`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/c7b0f18a8964637a09787b16e2509d3eb5b9667e)
 
-## 24.04.02-Jazzy
+## [24.04.02-Jazzy](https://github.com/CogniPilot/navqplus-images/releases/tag/24.04.02-Jazzy)
 - Force Performance mode on NavQPlus
 - [`jazzy-241107112629-f5fbb06c28`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/f5fbb06c28ba78cccde63f2e3790750d4579c439)
 
-## 24.04.01-Jazzy
+## [24.04.01-Jazzy](https://github.com/CogniPilot/navqplus-images/releases/tag/24.04.01-Jazzy)
 - Initial release for 24.04 jazzy on NavQPlus
 - [`jazzy-240925145528-b2c2ee4acb`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/b2c2ee4acb1251dd12d9da13ac6cd147d73ad55b)
 
