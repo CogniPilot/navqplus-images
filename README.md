@@ -3,7 +3,9 @@
 - Enable UWB driver
 - Enable NPU and GPU
 - Use corrected install path for tflite_runtime
-- [`jazzy-241121170651-a4ab9c3d27`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/a4ab9c3d27acf423e2a1f23c67d597d6bf4635d8)
+- Include kernel sources
+- Enable most usb serial drivers
+- [`jazzy-241122151518-c7b0f18a89`](https://github.com/NXPHoverGames/meta-nxp-mr/tree/c7b0f18a8964637a09787b16e2509d3eb5b9667e)
 
 ## 24.04.02-Jazzy
 - Force Performance mode on NavQPlus
